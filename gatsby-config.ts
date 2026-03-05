@@ -32,7 +32,7 @@ const config: GatsbyConfig = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Modern Blog`,
+        name: `Erpeng Li`,
         short_name: `Blog`,
         start_url: `/`,
         background_color: `#000000`,
