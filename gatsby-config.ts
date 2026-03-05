@@ -2,7 +2,7 @@ import type { GatsbyConfig } from "gatsby";
 
 const config: GatsbyConfig = {
   siteMetadata: {
-    title: `Modern Blog`,
+    title: `Erpeng Li`,
     description: `A beautiful, modern blog built with Gatsby and TypeScript`,
     author: `@yourusername`,
     siteUrl: `https://your-blog.com`,
